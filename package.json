@@ -1,7 +1,7 @@
 {
   "name": "react-lol-ban",
   "version": "0.1.0",
-  "homepage": "http://dureotkd.github.io/react-lol-ban",
+  "homepage": "http://react-lol-ban",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.6.0",
